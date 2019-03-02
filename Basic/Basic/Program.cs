@@ -23,7 +23,6 @@ namespace Basic
                 "}" +
             "}";
 
-        //https://msdn.microsoft.com/en-us/magazine/mt808499.aspx?f=255&MSPPError=-2147217396
         static void Main(string[] args)
         {
             //1) Parse and get the root syntax node
